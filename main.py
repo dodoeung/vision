@@ -56,8 +56,7 @@ food_data = {
         {
             "menu": "🌶️ 매운 떡볶이",
             "image": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Tteokbokki_by_stu_spivack.jpg",
-            "how_to_eat": "치즈, 당면, 계란, 소시지를  추가하면 최고의 맛  여기에 쿨피스까지! 엽떡을 시킬거면 중당 필수 알지!? 신전 시킬거면 고구마 치즈볼 한번 먹어봐
-            따봉 시킬거면 모둠 튀김!",
+            "how_to_eat": "치즈, 당면, 계란, 소시지를  추가하면 최고의 맛  여기에 쿨피스까지! 엽떡을 시킬거면 중당 필수 알지!? 신전 시킬거면 고구마 치즈볼 한번 먹어봐!",
             "effect": "화끈한 맛이 스트레스를 날린다아아ㅏ."
         },
         {
