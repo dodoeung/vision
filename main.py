@@ -42,7 +42,7 @@ food_data = {
     "스트레스 받아요": [
         {
             "menu": "매운 떡볶이",
-            "image": "https://www.pngitem.com/pimgs/m/254-2541235_cute-cartoon-spicy-noodles-png-png-download-cute.png",
+            "image": "https://cdn.pixabay.com/photo/2023/09/04/09/58/tteokbokki-8231986_1280.png",
             "how_to_eat": "치즈나 당면, 삶은 달걀을 추가해서 매콤하고 부드럽게 즐겨보세요!",
             "effect": "화끈한 맛이 스트레스를 날려줘요!"
         },
