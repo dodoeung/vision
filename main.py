@@ -56,13 +56,14 @@ food_data = {
         {
             "menu": "🌶️ 매운 떡볶이",
             "image": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Tteokbokki_by_stu_spivack.jpg",
-            "how_to_eat": "치즈, 당면, 계란, 소시지를  추가하면 최고의 맛  여기에 쿨피스까지!",
+            "how_to_eat": "치즈, 당면, 계란, 소시지를  추가하면 최고의 맛  여기에 쿨피스까지! 엽떡을 시킬거면 중당 필수 알지!? 신전 시킬거면 고구마 치즈볼 한번 먹어봐
+            따봉 시킬거면 모둠 튀김!",
             "effect": "화끈한 맛이 스트레스를 날린다아아ㅏ."
         },
         {
             "menu": "🍗 핫치킨",
             "image": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Korean_fried_chicken_%2814402349903%29.jpg",
-            "how_to_eat": "갈릭 소스를 곁들여 보세요!, 뭐 이것도 좋지만 더 매운소스랑 먹으면 끝장 남!",
+            "how_to_eat": "갈릭 소스를 곁들여 보세요!, 뭐 이것도 좋지만 더 매운소스랑 먹으면 끝장 남, 60계 치킨에 새로 나온 매운 치킨 맛있고, 멕시카나에 땡초 치킨 진짜 맛도리야!",
             "effect": "속이 시원해지는 강렬한 자극!"
         }
     ],
@@ -70,7 +71,7 @@ food_data = {
         {
             "menu": "🍓 딸기 케이크",
             "image": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Strawberry_Shortcake_%28259244995%29.jpg",
-            "how_to_eat": "홍차와 함께 먹으면 달콤한 조화! 홍차는 무슨! 우유랑 먹으면 급나게 맛있다. 그것도 딸기 우유랑 먹어라!!",
+            "how_to_eat": "홍차와 함께 먹으면 달콤한 조화! 홍차는 무슨! 우유랑 먹으면 급나게 맛있다. 그것도 딸기 우유랑 먹어라!! 그리고 남은 케잌은 얼려서 다시 먹어라",
             "effect": "기쁨이 두 배가 되는 맛이에요."
         }
     ],
@@ -86,21 +87,21 @@ food_data = {
         {
             "menu": "🍜 따뜻한 라멘",
             "image": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Tonkotsu_ramen_by_Shun_2007.jpg",
-            "how_to_eat": "반숙 계란과 김 토핑 추천! 여기에 고기 곱배기 추가! 당연하지!?",
-            "effect": "뜨끈한 국물이 마음을 녹여줘요."
+            "how_to_eat": "반숙 계란과 김 토핑 추천! 여기에 고기 곱배기 추가! 당연하지!? 전대에 라멘 맛집 있다!",
+            "effect": "뜨끈한 국물이 마음을 녹여주긴 개뿔 마음을 흥분시켜서 두그릇 먹게 된다!."
         },
         {
             "menu": "🍞 달콤한 토스트",
             "image": "https://upload.wikimedia.org/wikipedia/commons/3/32/Honey_toast.jpg",
-            "how_to_eat": "버터에 구운 뒤 연유를 뿌려 보세요.",
-            "effect": "달콤함이 외로움을 달래줘요."
+            "how_to_eat": "버터에 구운 뒤 연유를 뿌려 보세요. 이것도 나쁘지 않지만 나는 계란물에 담궈서 굽는것을 추천 더 달달하면서 고숩",
+            "effect": "달콤함이 외로움을 달래줘요 하지만 진실은 외로움을 달래주진 않아."
         }
     ],
     "기운이 없어요": [
         {
             "menu": "🥣 한우 미역국",
             "image": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Korean_seaweed_soup_Miyeokguk.jpg",
-            "how_to_eat": "밥을 말아서 따뜻하게 한그릇!",
+            "how_to_eat": "밥을 말아서 따뜻하게 한그릇!, 한우 많이 있는 미역국 선점해 ",
             "effect": "영양 가득한 국물이 기운을 복돋아줘요."
         }
     ]
