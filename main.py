@@ -3,18 +3,21 @@ import streamlit as st
 # 페이지 설정
 st.set_page_config(page_title="기분푸드 🍱", page_icon="🍙", layout="wide")
 
-# 사용자 정의 CSS (배경이미지 제거, stMarkdown 투명도 조정)
+# 사용자 정의 CSS - 배경 이미지 포함 (main 영역에 적용)
 st.markdown("""
     <style>
-        body {
-            background-color: #fffbe6;
+        .main {
+            background-image: url('https://cdn.pixabay.com/photo/2017/06/14/11/38/food-2404162_1280.jpg');
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
         }
         h1, h2, h3 {
             color: #d94f4f;
             font-family: 'Comic Sans MS', cursive;
         }
         .stMarkdown {
-            background-color: rgba(255, 255, 255, 0.6);
+            background-color: rgba(255, 255, 255, 0.8);
             padding: 1rem;
             border-radius: 15px;
         }
@@ -108,9 +111,10 @@ food_data = {
     ]
 }
 
-# 사용자 입력
+# 사용자 감정 선택
 selected = st.selectbox("👉 지금 당신의 기분은 어떤가요?", emotions)
 
+# 캐릭터 및 음식 출력
 if selected:
     st.image(emotion_gifs[selected], width=200)
     st.markdown(f"## 😊 '{selected}' 기분엔 이런 음식이 어울려요!")
